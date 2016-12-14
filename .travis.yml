@@ -1,0 +1,16 @@
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-add-repository -y pa:chris-lea/uwsgi
+  - sudo apt-get install -y nginx uwsgi uwsgi-plugin-python
+  - sudo apt-get install -y fabric git openssh-server
+  
+install:
+  - fab env_dev install_single_server
+  - fab env_dev bootstrap_from_checkout
+
+language: python
+python:
+  - "2.7"
+  
+# command to run tests
+script: py.test assembl
