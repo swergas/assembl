@@ -1,7 +1,7 @@
 pip==9.0.1
 setuptools==34.1.1
 alabaster==0.7.9
-alembic==0.8.6
+alembic==0.8.10
 # Until new kombu release
 amqp==1.4.9  # rq.filter: <2
 anyjson==0.3.3
