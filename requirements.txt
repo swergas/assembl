@@ -72,7 +72,7 @@ meld3==1.0.2
 mock==2.0.0
 ndg-httpsclient==0.4.2
 -e git+https://github.com/ekalinin/nodeenv.git@master#egg=nodeenv
-numpy==1.11.0
+numpy==1.12.0
 #oauthlib==1.1.0
 oauth2client==2.2.0
 openpyxl==2.4.1
