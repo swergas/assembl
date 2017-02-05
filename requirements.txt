@@ -117,7 +117,7 @@ python-dateutil==2.5.3
 python-openid==2.2.5
 python-saml==2.2.0
 -e git+https://github.com/assembl/python-social-auth.git@assembl#egg=python_social_auth
-pytz==2016.4
+pytz==2016.10
 pyzmq==15.2.0
 raven==5.21.0
 rdflib-jsonld==0.4.0
