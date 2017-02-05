@@ -102,7 +102,7 @@ pyramid-debugtoolbar-ajax==0.0.4
 pyramid-debugtoolbar==3.0.5
 pyramid-dogpile-cache==0.0.4
 pyramid-ipython==0.2
-pyramid-jinja2==2.6.2
+pyramid-jinja2==2.7
 pyramid-mailer==0.14.1
 pyramid-mako==1.0.2
 pyramid-tm==0.12.1
