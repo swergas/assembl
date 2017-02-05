@@ -62,7 +62,7 @@ isodate==0.5.4
 jdcal==1.3
 Jinja2==2.9.5
 -e git+https://github.com/benoitg/jwzthreading.git@master#egg=jwzthreading
-kombu==3.0.35
+kombu==4.0.2
 langdetect==1.0.6
 lingua==4.9
 lxml==3.6.0
