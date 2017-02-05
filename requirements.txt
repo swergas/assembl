@@ -127,7 +127,7 @@ repoze.lru==0.6
 # Do not use 4.2 thanks to https://github.com/repoze/repoze.sendmail/issues/31
 repoze.sendmail==4.1  # rq.filter: <4.2
 requests-oauthlib==0.6.1
-requests==2.10.0
+requests==2.13.0
 rsa==3.4.2
 scikit-learn==0.17.1
 scipy==0.17.1
