@@ -53,7 +53,7 @@ idna==2.2
 #IMAPClient==1.0.1
 imaplib2==2.45.0
 ipaddress==1.0.18
-ipykernel==4.3.1
+ipykernel==4.5.2
 ipython-genutils==0.1.0
 ipython==4.2.0
 iso639==0.1.4  # failure with 0.1.3
