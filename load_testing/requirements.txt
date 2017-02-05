@@ -4,7 +4,7 @@ configparser==3.5.0
 gevent==1.2.1
 greenlet==0.4.12
 inflect==0.2.5
-irc==12.3
+irc==15.0.6
 jaraco.apt==1.0
 jaraco.classes==1.3
 jaraco.collections==1.3.2
