@@ -24,7 +24,7 @@ colors.py==0.2.2
 -e git+https://github.com/maparent/cornice.git@master#egg=cornice
 cov-core==1.15.0
 coverage==4.3.4
-cryptography==1.4
+cryptography==1.7.2
 DateTime==4.1.1
 defusedxml==0.4.1
 # distribute==0.7.3 # This fails with latest pip. Installed properly as a dependency.
