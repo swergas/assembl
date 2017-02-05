@@ -41,7 +41,7 @@ Fabric==1.13.1
 flaky==3.3.0
 #Because mock 2.0.0 requires it, but it isn't always detected properly
 funcsigs==1.0.2
-future==0.15.2
+future==0.16.0
 -e git+https://github.com/maparent/fuxi.git#egg=fuxi
 gensim==0.12.3
 google-api-python-client==1.5.1
