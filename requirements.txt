@@ -84,7 +84,7 @@ premailer==3.0.1
 py==1.4.32
 pyasn1==0.2.1
 pyasn1_modules==0.0.8
-pycparser==2.14
+pycparser==2.17
 pycrypto==2.6.1
 pydot==1.1.0
 Pygments==2.1.3
