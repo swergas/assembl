@@ -18,7 +18,7 @@ konfig==1.1
 loads==0.3
 more-itertools==2.5.0
 Paste==2.0.3
-psutil==4.1.0
+psutil==5.1.2
 pytz==2016.3
 pyzmq==15.2.0
 requests==2.9.1
