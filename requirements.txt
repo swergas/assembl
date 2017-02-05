@@ -159,7 +159,7 @@ psycopg2==2.6.2
 waitress==1.0.2
 WebOb==1.7.1
 WebTest==2.0.24
-Werkzeug==0.11.10
+Werkzeug==0.11.15
 zope.component==4.2.2
 zope.deprecation==4.1.2
 zope.event==4.2.0
