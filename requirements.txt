@@ -94,7 +94,7 @@ dnspython==1.15.0   # must come after pyisemail?
 PyJWT==1.4.2
 pylibmc==1.5.1
 -e git+https://github.com/maparent/pyodbc.git@v3-virtuoso#egg=pyodbc
-pyOpenSSL==16.0.0
+pyOpenSSL==16.2.0
 pyparsing==2.1.5
 pyramid-autodoc==1.0.0
 -e git+https://github.com/assembl/pyramid_beaker.git@assembl#egg=pyramid_beaker
