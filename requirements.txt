@@ -65,7 +65,7 @@ Jinja2==2.9.5
 kombu==4.0.2
 langdetect==1.0.7
 lingua==4.13
-lxml==3.6.0
+lxml==3.7.2
 Mako==1.0.4
 MarkupSafe==0.23
 meld3==1.0.2
