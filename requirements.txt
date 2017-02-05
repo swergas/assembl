@@ -112,7 +112,7 @@ pytest-cov==2.4.0
 pytest-localserver==0.3.6
 pytest-mock==1.5.0
 pytest-splinter==1.8.1
-pytest==2.9.2
+pytest==3.0.6
 python-dateutil==2.5.3
 python-openid==2.2.5
 python-saml==2.2.0
