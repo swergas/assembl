@@ -13,7 +13,7 @@ backports.ssl-match-hostname==3.5.0.1
 -e git+https://github.com/assembl/Beaker.git@assembl#egg=Beaker
 beautifulsoup4==4.5.3
 billiard==3.5.0.2
-boto==2.40.0
+boto==2.45.0
 bz2file==0.98
 celery==3.1.23
 cffi==1.7.0
