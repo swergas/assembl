@@ -113,7 +113,7 @@ pytest-localserver==0.3.6
 pytest-mock==1.5.0
 pytest-splinter==1.8.1
 pytest==3.0.6
-python-dateutil==2.5.3
+python-dateutil==2.6.0
 python-openid==2.2.5
 python-saml==2.2.0
 -e git+https://github.com/assembl/python-social-auth.git@assembl#egg=python_social_auth
