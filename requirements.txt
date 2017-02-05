@@ -121,7 +121,7 @@ pytz==2016.10
 pyzmq==16.0.2
 raven==5.32.0
 rdflib-jsonld==0.4.0
-rdflib==4.2.1
+rdflib==4.2.2
 redis==2.10.5
 repoze.lru==0.6
 # Do not use 4.2 thanks to https://github.com/repoze/repoze.sendmail/issues/31
