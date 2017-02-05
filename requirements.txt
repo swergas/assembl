@@ -23,7 +23,7 @@ ColanderAlchemy==0.3.3
 colors.py==0.2.2
 -e git+https://github.com/maparent/cornice.git@master#egg=cornice
 cov-core==1.15.0
-coverage==4.1
+coverage==4.3.4
 cryptography==1.4
 DateTime==4.1.1
 defusedxml==0.4.1
